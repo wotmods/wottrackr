@@ -1,6 +1,6 @@
-# MEAN Stack Single Page Application Starter
+# [MEAN Stack Single Page Application Starter](https://scotch.io/tutorials/setting-up-a-mean-stack-single-page-application)
 
-This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application. 
+This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application.
 
 ## Installation
 1. Download the repository
